@@ -1,0 +1,37 @@
+body {
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+.cabecalho {
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+.titulo {
+    font: bold 36pt Arial;
+}
+
+.section-conteudo{
+background: #FFF;
+border-radius: 10px;
+padding:15px;
+width:500px;
+margin: auto;
+box-shadow: 10px 10px 10px black;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+.rodape{
+color:rgb(4, 4, 4);
+text-align: center;
+font-style: italic;
+}
+
+.paragrafo {
+    font: bold 25pt Arial;
+}
